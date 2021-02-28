@@ -4,6 +4,6 @@ Simple Staff BlackList for your server. You can use it to manage who is and who 
 
 ### Commands
 
-- /bls add [Name]
-- /bls remove [Name]
-- /bls check [Name]
+- /bls add [name]
+- /bls remove [name]
+- /bls check [name]
